@@ -1,0 +1,18 @@
+.banner {
+  background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url(../../images/background.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 350px;
+  padding: 20px 0px 15px 0px;
+  text-align: center;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.banner h1 {
+  color: #3A2119;
+  font-size: 40px;
+  font-family: 'Roboto', sans-serif;
+  position: relative;
+  top: 15px;
+}
